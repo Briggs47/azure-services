@@ -4,7 +4,7 @@ DevOps repo for infrastructure-as-a-code azure services.
 My name is Akinkunmi Akindolire, i'm a CloudOps and DevOps Evangelist.
 I started studying devops in the year 2017 and in the three aspect of devops which is Infrastructure-as-a-code, continous integration & continous delivery, Reliablility engineering. The aspect i began with was Infrastructure-as-a-code. 
 
-Prior to this i have worked as a Microsoft solution Architect to various microsoft technologies.
+Prior to this i have worked as a Microsoft solution Architect with various microsoft technologies.
 
 As an IT Professional, resourceful, flexible individual with organized nature and personable attitude towards taking ownership of task quickly. a creative problem solver, and an adept at problem solving.
 
