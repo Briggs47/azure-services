@@ -6,7 +6,7 @@ I started studying devops in the year 2017 and in the three aspect of devops whi
 
 Prior to this i have worked as a Microsoft solution Architect with various microsoft technologies.
 
-Being an IT Professional, resourceful, flexible individual with organized nature and personable attitude towards taking ownership of task quickly. a creative problem solver, and an adept at problem solving.
+Being an IT Professional, resourceful, flexible individual with organized nature and personable attitude towards taking ownership of task quickly. A creative problem solver, and an adept at problem solving.
 
 Here is my experience and skills in Information Technology over the past 10 years:
 
